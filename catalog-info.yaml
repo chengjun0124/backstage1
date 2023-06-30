@@ -20,5 +20,5 @@ metadata:
     jenkins.io/job-full-name: Talent-AI_Builds/junorg/java-talentai-sampleservice-jdk11/
 spec:
   type: library
-  owner: user:default/team-3-jun
+  owner: aa
   lifecycle: experimental
