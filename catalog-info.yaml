@@ -19,6 +19,6 @@ metadata:
     lighthouse.com/website-url: https://backstage.io
     jenkins.io/job-full-name: Talent-AI_Builds/junorg/java-talentai-sampleservice-jdk11/
 spec:
-  type: library
+  type: service
   owner: group:default/team-1
   lifecycle: experimental
